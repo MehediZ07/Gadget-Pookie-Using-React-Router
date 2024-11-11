@@ -35,7 +35,7 @@ This is a online shope web application where you can find all kind of electronic
 
 ## Live Link
 
-[GadgetPookie Web App](https://mz-gadget-pookie.surge.sh/).
+[GadgetPookie Web App](https://mz-gadget-pookie-online-shop.surge.sh/).
 
 ### Preview
 

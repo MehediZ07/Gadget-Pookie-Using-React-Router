@@ -1,4 +1,5 @@
 import { GoogleAuthProvider } from "firebase/auth";
+
 import React from "react";
 import { Helmet } from "react-helmet";
 import { Link } from "react-router-dom";
@@ -23,7 +24,7 @@ const auth = getAuth(app);
 
 const provider = new GoogleAuthProvider();
 export default function Login() {
-  const handleSignIn = () => {
+  const handleSignInWithGoogle = () => {
     signInWithPopup(auth, provider)
       .then((result) => {
         console.log(result);
@@ -82,7 +83,7 @@ export default function Login() {
           </div>
         </div>
         <button
-          onClick={handleSignIn}
+          onClick={handleSignInWithGoogle}
           className="flex items-center justify-center mt-4 w-full px-6 py-3 bg-gray-100 hover:bg-gray-200 text-black font-semibold rounded-md shadow-md transition duration-300 ease-in-out"
         >
           <img
