@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "policy_type": "warranty_policy",
+    "title": "Warranty Policy",
+    "description": "Our warranty policy guarantees that the product will be free from defects in material and workmanship for a specified period from the date of purchase. If any defect is found, we will offer a replacement or repair at no additional cost."
+  },
+  {
+    "id": 2,
+    "policy_type": "return_policy",
+    "title": "Return Policy",
+    "description": "We accept returns within 30 days of purchase. To be eligible for a return, the product must be in its original condition, unused, and in the original packaging. Please provide the receipt or proof of purchase."
+  },
+  {
+    "id": 3,
+    "policy_type": "refund_policy",
+    "title": "Refund Policy",
+    "description": "If a product is returned and deemed eligible, a full refund will be issued to the original payment method within 7-10 business days. The refund process may vary depending on the payment method used."
+  }
+]

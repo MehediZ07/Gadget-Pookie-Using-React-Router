@@ -1,0 +1,18 @@
+[
+  {
+    "category_id": 1,
+    "category_name": "Accessories"
+  },
+  {
+    "category_id": 2,
+    "category_name": "Laptop"
+  },
+  {
+    "category_id": 3,
+    "category_name": "Phone"
+  },
+  {
+    "category_id": 4,
+    "category_name": "Camera"
+  }
+]

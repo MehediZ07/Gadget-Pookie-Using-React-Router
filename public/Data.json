@@ -1,0 +1,241 @@
+[
+  {
+    "product_id": 17,
+    "product_title": "Smartphone Lite",
+    "product_image": "https://i.ibb.co.com/cJ8fcFQ/images.jpg",
+    "category": "Phone",
+    "price": 199.99,
+    "description": "Compact and lightweight smartphone with basic features.",
+    "specification": ["Storage: 32GB", "Battery: 2500mAh"],
+    "availability": true,
+    "rating": 3,
+    "other_field": "Ideal for students"
+  },
+  {
+    "product_id": 18,
+    "product_title": "Business Laptop",
+    "product_image": "https://i.ibb.co.com/3CVPmvj/02-PX9-YDzfu4p-BDk-KQBx9jdk-19.webp",
+    "category": "Laptop",
+    "price": 1199.99,
+    "description": "Reliable laptop designed for business professionals.",
+    "specification": [
+      "RAM: 16GB",
+      "Storage: 1TB SSD",
+      "Battery life: 14 hours"
+    ],
+    "availability": false,
+    "rating": 4.5,
+    "other_field": "Security features"
+  },
+  {
+    "product_id": 19,
+    "product_title": "Student Laptop",
+    "product_image": "https://i.ibb.co.com/R71nWjT/akrales-200421-3975-0080.jpg",
+    "category": "Laptop",
+    "price": 649.99,
+    "description": "Affordable laptop perfect for students and everyday use.",
+    "specification": ["RAM: 8GB", "Storage: 256GB SSD"],
+    "availability": true,
+    "rating": 4,
+    "other_field": "Lightweight design"
+  },
+  {
+    "product_id": 20,
+    "product_title": "Flagship Smartphone",
+    "product_image": "https://i.ibb.co.com/KrpGRhx/download.jpg",
+    "category": "Phone",
+    "price": 1099.99,
+    "description": "Top-tier smartphone with premium features and build quality.",
+    "specification": [
+      "Storage: 512GB",
+      "Battery: 5000mAh",
+      "Camera: Triple lens"
+    ],
+    "availability": true,
+    "rating": 3.5,
+    "other_field": "Water-resistant"
+  },
+  {
+    "product_id": 1,
+    "product_title": "Smartphone",
+    "product_image": "https://i.ibb.co.com/fFSXKSb/bd-galaxy-m55-5g-sm-m556-sm-m556blgdbng-thumb-542626587.jpg",
+    "category": "Phone",
+    "price": 699.99,
+    "description": "Latest smartphone with high-resolution camera and fast processor.",
+    "specification": ["Storage: 128GB", "Battery: 4000mAh"],
+    "availability": true,
+    "rating": 4.6,
+    "other_field": "5G compatible"
+  },
+  {
+    "product_id": 2,
+    "product_title": "Smartphone Case",
+    "product_image": "https://i.ibb.co.com/wdGT0gs/download.jpg",
+    "category": "Accessories",
+    "price": 59.99,
+    "description": "Durable case to protect your smartphone.",
+    "specification": ["Material: Silicone", "Shockproof"],
+    "availability": false,
+    "rating": 2.5,
+    "other_field": "Slim design"
+  },
+  {
+    "product_id": 3,
+    "product_title": "Wireless Mouse",
+    "product_image": "https://i.ibb.co.com/9wrtSPy/download.jpg",
+    "category": "Accessories",
+    "price": 50.0,
+    "description": "A high-precision wireless mouse for comfortable usage.",
+    "specification": ["Battery life: 12 months", "Wireless range: 10m"],
+    "availability": true,
+    "rating": 3,
+    "other_field": "Lightweight design"
+  },
+  {
+    "product_id": 4,
+    "product_title": "Mechanical Keyboard",
+    "product_image": "https://i.ibb.co.com/qm6ZJRL/v1056.webp",
+    "category": "Accessories",
+    "price": 89.99,
+    "description": "A mechanical keyboard with customizable RGB lighting.",
+    "specification": [
+      "Switch type: Cherry MX",
+      "Key lifespan: 50 million presses"
+    ],
+    "availability": true,
+    "rating": 3.9,
+    "other_field": "Ergonomic wrist rest"
+  },
+  {
+    "product_id": 5,
+    "product_title": "Laptop Stand",
+    "product_image": "https://i.ibb.co.com/pynyXzD/611ekj-Cnii-S-AC-SL1500.jpg",
+    "category": "Accessories",
+    "price": 59.99,
+    "description": "Adjustable laptop stand for better ergonomics.",
+    "specification": ["Material: Aluminum", "Adjustable height"],
+    "availability": false,
+    "rating": 4,
+    "other_field": "Portable"
+  },
+  {
+    "product_id": 6,
+    "product_title": "Bluetooth Headphones",
+    "product_image": "https://i.ibb.co.com/hKfYXTR/download.jpg",
+    "category": "Accessories",
+    "price": 69.99,
+    "description": "Noise-canceling Bluetooth headphones with great sound quality.",
+    "specification": ["Battery life: 20 hours", "Water-resistant: Yes"],
+    "availability": false,
+    "rating": 2,
+    "other_field": "Built-in microphone"
+  },
+  {
+    "product_id": 7,
+    "product_title": "Portable Speaker",
+    "product_image": "https://i.ibb.co.com/S53ZQH8/Anker-Soundcore-Glow-Mini-Portable-Speaker-With-360-Sound.webp",
+    "category": "Accessories",
+    "price": 79.99,
+    "description": "Bluetooth portable speaker with high-quality sound.",
+    "specification": ["Battery life: 15 hours", "Water-resistant: Yes"],
+    "availability": true,
+    "rating": 5,
+    "other_field": "Built-in microphone"
+  },
+  {
+    "product_id": 8,
+    "product_title": "HDMI Cable",
+    "product_image": "https://i.ibb.co.com/n6DtbZb/images.jpg",
+    "category": "Accessories",
+    "price": 79.99,
+    "description": "High-speed HDMI cable for connecting devices.",
+    "specification": ["Length: 6 feet", "4K compatible"],
+    "availability": true,
+    "rating": 4.4,
+    "other_field": "Gold-plated connectors"
+  },
+  {
+    "product_id": 9,
+    "product_title": "4K Ultra HD Monitor",
+    "product_image": "https://i.ibb.co.com/vDgdNXM/download.jpg",
+    "category": "Accessories",
+    "price": 299.99,
+    "description": "A stunning 4K monitor perfect for gaming and productivity.",
+    "specification": ["Screen size: 27 inches", "Refresh rate: 144Hz"],
+    "availability": true,
+    "rating": 3.5,
+    "other_field": "VESA mount compatible"
+  },
+  {
+    "product_id": 10,
+    "product_title": "Wireless Charger",
+    "product_image": "https://i.ibb.co.com/myDCc5K/images.jpg",
+    "category": "Accessories",
+    "price": 50.0,
+    "description": "Fast wireless charger compatible with most smartphones.",
+    "specification": ["Output: 10W", "Overcharge protection: Yes"],
+    "availability": true,
+    "rating": 2.5,
+    "other_field": "Sleek design"
+  },
+  {
+    "product_id": 11,
+    "product_title": "Action Camera",
+    "product_image": "https://i.ibb.co.com/6R8CqWk/download.jpg",
+    "category": "Camera",
+    "price": 149.99,
+    "description": "High-definition action camera for capturing your adventures.",
+    "specification": ["Resolution: 4K", "Waterproof case: Included"],
+    "availability": true,
+    "rating": 4,
+    "other_field": "Wide-angle lens"
+  },
+  {
+    "product_id": 12,
+    "product_title": "DSLR Camera",
+    "product_image": "https://i.ibb.co.com/cvMRwTN/download.jpg",
+    "category": "Camera",
+    "price": 899.99,
+    "description": "Professional DSLR camera with interchangeable lenses.",
+    "specification": ["Megapixels: 24MP", "Video: 1080p"],
+    "availability": false,
+    "rating": 2,
+    "other_field": "Includes lens kit"
+  },
+  {
+    "product_id": 13,
+    "product_title": "Camera Tripod",
+    "product_image": "https://i.ibb.co.com/pfdpPn2/download.jpg",
+    "category": "Camera",
+    "price": 89.99,
+    "description": "Sturdy tripod for stable shots.",
+    "specification": ["Material: Aluminum", "Height: Adjustable"],
+    "availability": true,
+    "rating": 3,
+    "other_field": "Lightweight"
+  },
+  {
+    "product_id": 14,
+    "product_title": "Webcam",
+    "product_image": "https://i.ibb.co.com/8N52LwH/download.jpg",
+    "category": "Camera",
+    "price": 89.99,
+    "description": "High-quality webcam for streaming and video calls.",
+    "specification": ["Resolution: 1080p", "Built-in microphone"],
+    "availability": true,
+    "rating": 3.5,
+    "other_field": "Plug and play"
+  },
+  {
+    "product_id": 15,
+    "product_title": "External Hard Drive",
+    "product_image": "https://i.ibb.co.com/VgYvrBc/download.jpg",
+    "category": "Accessories",
+    "price": 119.99,
+    "description": "1TB external hard drive for additional storage.",
+    "specification": ["Transfer speed: 5400 RPM", "USB 3.0"],
+    "availability": false,
+    "rating": 4.5,
+    "other_field": "Compact design"
+  }
+]
